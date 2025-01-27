@@ -13,4 +13,4 @@ async function createTodo(userId: number, title: string, description: string){
     console.log(todo);
 }
 
-createTodo(1, "Read OS", "See two video of Operating System ");
+createTodo(1, "Go to Gym", "Go to gym at 6:00 AM");
