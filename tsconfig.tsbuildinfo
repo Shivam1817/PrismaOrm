@@ -1,1 +1,1 @@
-{"root":["./src/createtodo.ts","./src/gettodos.ts","./src/getuser.ts","./src/insertuser.ts","./src/updateuser.ts"],"version":"5.7.3"}
+{"root":["./src/createtodo.ts","./src/gettodos.ts","./src/gettodosanduserdetails.ts","./src/getuser.ts","./src/insertuser.ts","./src/updateuser.ts"],"version":"5.7.3"}
